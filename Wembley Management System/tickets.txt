@@ -1,0 +1,21 @@
+User: user1, Event: TaylorSwift_Concert, Date: 2024-06-06, Tickets: 10
+User: user1, Event: HarryStyles, Date: 2025-10-10, Tickets: 1
+User: user1, Event: HarryStyles, Date: 2025-10-10, Tickets: 2
+User: user2, Event: ChelseaVSArsenal, Date: 2024-05-05, Tickets: 5
+User: user2, Event: WestHam-vs-Burnley, Date: 2024-05-25, Tickets: 4
+User: ahmed, Event: Manchester-Derby, Date: 2028-09-15, Tickets: 10
+User: user1, Event: TaylorSwift_Concert, Date: 2024-06-06, Tickets: 1
+User: ahmed, Event: HarryStyles, Date: 2025-10-10, Tickets: 2
+User: ahmed, Event: Manchester-Derby, Date: 2028-09-15, Tickets: 5
+User: user2, Event: artist-g, Date: 2028-10-10, Tickets: 1
+User: user2, Event: charitygame, Date: 2026-02-02, Tickets: 1
+Ticket Holder: ahmed, Tour Date: 2025-5-1, Total Cost: £20
+Ticket Holder: steve, Tour Date: 2026-01-01, Number of Tickets: 5, Total Cost: £100
+Username: user1, Event Type: PSGvsChelsea, Event Date: 2024-05-04, Ticket Price: 5.99, Number of Tickets: 3, Ticket Price: 5.99, Total Cost: 17.97
+Ticket Holder: Dave, Tour Date: 2024-06-09, Number of Tickets: 4, Total Cost: £80
+Username: user1, Event Type: ChelseaVSRealMadrid, Event Date: 2024-05-03, Ticket Price: 9.99, Number of Tickets: 3, Ticket Price: 9.99, Total Cost: 29.97
+Ticket Holder: Deyvid, Tour Date: 2024-07-05, Number of Tickets: 6, Total Cost: £120
+Username: user1, Event Type: RealMadridVSPSG, Event Date: 2024-05-06, Ticket Price: 10.99, Number of Tickets: 5, Ticket Price: 10.99, Total Cost: 54.95
+Ticket Holder: BenClark, Tour Date: 2024-06-07, Number of Tickets: 4, Total Cost: £80
+Ticket Holder: ahmed, Tour Date: 2024-01-01, Number of Tickets: 5, Total Cost: £100
+Username: user1, Event Type: RealMadridVSPSG, Event Date: 2024-05-06, Ticket Price: 10.99, Number of Tickets: 50, Ticket Price: 10.99, Total Cost: 549.5

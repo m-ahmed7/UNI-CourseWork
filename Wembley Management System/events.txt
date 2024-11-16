@@ -1,0 +1,13 @@
+Event Type: ChelseaVSArsenal, Date: 2024-05-05
+Event Type: TaylorSwift_Concert, Date: 2024-06-06
+Event Type: HarryStyles, Date: 2025-10-10
+Event Type: WestHam-vs-Burnley, Date: 2024-05-25
+Event Type: Manchester-Derby, Date: 2028-09-15
+Event Type: charitygame, Date: 2026-02-02
+Event Type: artist-g, Date: 2028-10-10
+Event Type: england-vs-spain, Date: 2024-06-06
+Event Type: Lakers-Vs-Bulls, Date: 2024-08-09
+Event Name: PSGvsChelsea, Event Date: 2024-05-04, Ticket Price: 5.99
+Event Name: ChelseaVSRealMadrid, Event Date: 2024-05-03, Ticket Price: 9.99
+Event Name: RealMadridVSPSG, Event Date: 2024-05-06, Ticket Price: 10.99
+Event Name: charity, Event Date: 2026-10-02, Ticket Price: 50
